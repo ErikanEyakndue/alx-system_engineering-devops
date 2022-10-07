@@ -1,12 +1,11 @@
-q
 #!/bin/bash
-
 pwd
-c-x c-s
 0-current_working_directory
-c-x c-c
 
-ctrl x ctrl c
-C-x C-c
-ls -a
+
+
+press
+
+
+
 
